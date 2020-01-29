@@ -25,4 +25,26 @@ https://likegeeks.com/main-linux-commands-easy-guide/
 Tips de Linux para ser productivos
 https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
+**Este es formato BOLD.**
 
+_Este es cursivo_
+
+![](https://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-2048x672.png)
+
+[![HOLA](https://img.youtube.com/vi/wSNd02kVv8o/0.jpg)](https://www.youtube.com/watch?v=wSNd02kVv8o)
+
+# CÓDIGO FUENTE
+```
+.global _start
+_start:
+MOV R7, #4
+MOV R0, #1
+MOV R2, #12
+LDR R1, =string
+SWI 0
+MOV R7, #1
+SWI 0
+.data
+string:
+.ascii "Hello Worldn"
+```
