@@ -50,4 +50,5 @@ string:
 ```
 
 **1.3 CIERRE DE DIAGNÓSTICO.**
+
 [![Link a mi perfil de sololearn](https://img.utdstc.com/icons/sololearn-learn-to-code-for-free-android.png:l)](https://www.sololearn.com/Profile/17288484)
